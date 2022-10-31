@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(33, 3, 61);
+}
+
+.blocoTitulo{
+    text-align: center;
+    color: aliceblue;
+}
+
+.titulo{
+    font-family: 'Fredoka One', cursive;
+    font-size: 280px;
+}
+
+.texto{
+    font-family: 'Fredoka One', cursive;
+    font-size: 50px;
+}

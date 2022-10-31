@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(33, 3, 61);
+}
+
+.corpo{
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.form{
+    width: 800px;
+    height: 500px;
+    color:aliceblue;
+    font-family: 'Roboto Slab', serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.botoes{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.title{
+    color:aliceblue;
+    font-family: 'Fredoka One', cursive;
+}
+
+.acesso{
+    size: 5px;
+    margin: 10px;
+}
+
+.divacesso{
+    display: flex;
+
+}
